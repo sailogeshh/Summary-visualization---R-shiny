@@ -1,0 +1,13 @@
+name: newversion
+title: newversion
+username:
+account: logeshofficial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2510307
+bundleId: 3695437
+url: https://aiseaport.shinyapps.io/newversion/
+when: 1601647199.60306
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Ageing data.csv|Ageingout.csv|AP_Files_20162.xlsx|ben.csv|benford.R|cc.csv|controluni-level1 output-2020-09-29 (1).csv|controluni-level1 output-2020-09-29.csv|controluni-level2 output-2020-09-29.csv|controluni output-2020-09-29 (1).csv|controluni output-2020-09-29.csv|converted_temp - Copy.csv|Duplicate data-2020-10-01 (1).csv|Duplicate data-2020-10-01 (2).csv|Duplicate data-2020-10-01.csv|Duplicate data-2020-10-02 (1).csv|Duplicate data-2020-10-02 (2).csv|Duplicate data-2020-10-02 (3).csv|Duplicate data-2020-10-02.csv|Duplicate remove data-2020-10-01 (1).csv|Duplicate remove data-2020-10-01 (2).csv|Duplicate remove data-2020-10-01.csv|Duplicate removed data-2020-10-01 (1).csv|Duplicate removed data-2020-10-01 (2).csv|Duplicate removed data-2020-10-01.csv|Duplicate removed data-2020-10-02 (1).csv|Duplicate removed data-2020-10-02.csv|eee - Copy (2).csv|eee - Copy.csv|eee.csv|individual boxplot for all variables.R|insurance data.csv|single variable output-2020-09-23.csv|tt.csv|univariate output-2020-09-28 (1).csv|univariate output-2020-09-28.csv|univariatebox-level1 output-2020-09-29.csv|weight-height3.csv|ww.csv
